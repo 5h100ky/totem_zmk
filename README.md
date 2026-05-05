@@ -1,26 +1,33 @@
-# Project Name (Replace with your project name)
+# Totem ZMK: Custom Auto-Brightness Edition
 
-This project is a customized build of the **TOTEM Keyboard**. It features a modified firmware applied to the **TOTEM Redux** case design.
+This project is a customized build of the **TOTEM Keyboard**, featuring modified firmware with ZMK Studio support and a customized hardware setup.
 
 ## 🛠 Project Components & Modifications
-- **Hardware (Case):** [TOTEM Redux](https://www.printables.com/model/840146-totem-redux) by **VOID**. (A supportless FDM-friendly remix of the original TOTEM).
+
+- **Firmware:** Custom ZMK firmware including:
+  - **ZMK Studio** support for real-time keymap editing.
+  - **Auto-Brightness:** Integrated **APDS-9930** sensor to automatically adjust the display and peripheral brightness based on ambient light.
+- **Hardware (Case):** [TOTEM Redux](https://printables.com) by **VOID**.
+  - Modified based on the "Snake Project" case to seamlessly integrate the APDS-9930 sensor and display components.
 - **Hardware (Original Design):** [TOTEM](https://github.com) by **GEIGEIGEIST**.
-- **Firmware:** Custom firmware and keymap configurations modified by me to suit my personal setup.
 
 ## 📜 License
 
-This project is licensed under the **CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0)**. 
-It is a derivative work of the [TOTEM keyboard](https://github.com/GEIGEIGEIST/TOTEM) by **GEIGEIGEIST**.
+This project is a derivative work and is licensed under the **CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0)**, following the license of the original TOTEM project.
 
-You are free to use, modify, and distribute this project as long as you retain the original copyright notice and license terms.
+To comply with this license:
+1. **Attribution:** You must retain the original copyright notices in the files and provide credit to the original creators (**GEIGEIGEIST** and **VOID**).
+2. **Freedom to Modify & Distribute:** You are free to use, modify, and distribute this project (even for commercial purposes, as permitted by CERN-OHL-P-2.0).
 
-
-Full license details can be found [here](https://creativecommons.org).
+Full license details can be found in the [LICENSE](./LICENSE) file or on the [CERN OHL website](https://ohwr.org).
 
 ---
+
 **Credits:**
-- Original TOTEM Design by [GEIGEIGEIST](https://github.com)
-- TOTEM Redux Case Mod by [VOID](https://printables.com)
+- Original TOTEM Design: [GEIGEIGEIST](https://github.com)
+- TOTEM Redux Case: [VOID](https://printables.com)
+- Firmware Customization: [5h100ky](https://github.com)
+
 
 
 
