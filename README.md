@@ -49,7 +49,7 @@ Totem Keyboard: GEIGEIGEIST
 
 Keycap Design: braindefender/KLP-Lame-Keycaps
 
-Dongle Case Inspiration: Snake Project
-
+Dongle Case Inspiration: Snake Project [
+(https://github.com/felixJR123/Snake-Dongle-Case)]
 
 "This repo only supports dongleless Totems."
