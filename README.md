@@ -50,3 +50,6 @@ Totem Keyboard: GEIGEIGEIST
 Keycap Design: braindefender/KLP-Lame-Keycaps
 
 Dongle Case Inspiration: Snake Project
+
+
+"This repo only supports dongleless Totems."
