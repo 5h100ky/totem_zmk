@@ -1,3 +1,26 @@
+# Project Name (Replace with your project name)
+
+This project is a modified version of the [TOTEM keyboard](https://github.com) by **GEIGEIGEIST**. While the original hardware design remains unchanged, the firmware/source code has been customized to fit my specific requirements.
+
+## 🛠 Modifications
+- Original TOTEM hardware design is preserved.
+- Custom firmware code and keymap configurations applied.
+
+## 📜 License
+
+This project is a derivative work and is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+
+To comply with this license, you must adhere to the following:
+1. **Attribution:** You must give appropriate credit to the original creator, [GEIGEIGEIST](https://github.com), and provide a link to the original repository.
+2. **Non-Commercial:** You may NOT use this material for commercial purposes (e.g., selling kits, pre-built keyboards, or paid distribution).
+3. **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license (CC BY-NC-SA 4.0).
+
+You can find the full text of the license [here](https://creativecommons.org).
+
+---
+**Credits:** Original design and concept by [GEIGEIGEIST](https://github.com).
+
+
 Totem Keyboard: Custom Auto-Brightness Edition
 A customized build of the Totem Keyboard, featuring silent linear switches, custom resin keycaps, and an integrated ambient light sensor for dynamic display control.
 
