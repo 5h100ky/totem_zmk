@@ -9,12 +9,11 @@ This project is a customized build of the **TOTEM Keyboard**. It features a modi
 
 ## 📜 License
 
-This project is a derivative work and is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+This project is licensed under the **CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0)**. 
+It is a derivative work of the [TOTEM keyboard](https://github.com/GEIGEIGEIST/TOTEM) by **GEIGEIGEIST**.
 
-To comply with this license, you must adhere to the following:
-1. **Attribution:** You must give appropriate credit to the original creators (**GEIGEIGEIST** and **VOID**) and provide links to their respective projects.
-2. **Non-Commercial:** You may NOT use this material for commercial purposes (e.g., selling built keyboards, cases, or kits).
-3. **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license (CC BY-NC-SA 4.0).
+You are free to use, modify, and distribute this project as long as you retain the original copyright notice and license terms.
+
 
 Full license details can be found [here](https://creativecommons.org).
 
