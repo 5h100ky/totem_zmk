@@ -1,24 +1,28 @@
 # Project Name (Replace with your project name)
 
-This project is a modified version of the [TOTEM keyboard](https://github.com) by **GEIGEIGEIST**. While the original hardware design remains unchanged, the firmware/source code has been customized to fit my specific requirements.
+This project is a customized build of the **TOTEM Keyboard**. It features a modified firmware applied to the **TOTEM Redux** case design.
 
-## 🛠 Modifications
-- Original TOTEM hardware design is preserved.
-- Custom firmware code and keymap configurations applied.
+## 🛠 Project Components & Modifications
+- **Hardware (Case):** [TOTEM Redux](https://www.printables.com/model/840146-totem-redux) by **VOID**. (A supportless FDM-friendly remix of the original TOTEM).
+- **Hardware (Original Design):** [TOTEM](https://github.com) by **GEIGEIGEIST**.
+- **Firmware:** Custom firmware and keymap configurations modified by me to suit my personal setup.
 
 ## 📜 License
 
 This project is a derivative work and is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
 
 To comply with this license, you must adhere to the following:
-1. **Attribution:** You must give appropriate credit to the original creator, [GEIGEIGEIST](https://github.com), and provide a link to the original repository.
-2. **Non-Commercial:** You may NOT use this material for commercial purposes (e.g., selling kits, pre-built keyboards, or paid distribution).
+1. **Attribution:** You must give appropriate credit to the original creators (**GEIGEIGEIST** and **VOID**) and provide links to their respective projects.
+2. **Non-Commercial:** You may NOT use this material for commercial purposes (e.g., selling built keyboards, cases, or kits).
 3. **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license (CC BY-NC-SA 4.0).
 
-You can find the full text of the license [here](https://creativecommons.org).
+Full license details can be found [here](https://creativecommons.org).
 
 ---
-**Credits:** Original design and concept by [GEIGEIGEIST](https://github.com).
+**Credits:**
+- Original TOTEM Design by [GEIGEIGEIST](https://github.com)
+- TOTEM Redux Case Mod by [VOID](https://printables.com)
+
 
 
 Totem Keyboard: Custom Auto-Brightness Edition
