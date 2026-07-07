@@ -12,4 +12,9 @@ include:
   - board: seeeduino_xiao_ble
     shield: totem_right
   - board: seeeduino_xiao_ble
+    shield: totem_right
+    snippet: studio-rpc-usb-uart
+    cmake-args: -DCONFIG_ZMK_SPLIT=y -DCONFIG_ZMK_SPLIT_ROLE_CENTRAL=y -DCONFIG_ZMK_USB_LOGGING=y -DCONFIG_LOG_DEFAULT_LEVEL=4 -DCONFIG_ZMK_BATTERY_REPORTING=y -DCONFIG_ZMK_BATTERY_REPORT_INTERVAL=5 -DCONFIG_LOG_PROCESS_THREAD_STARTUP_DELAY_MS=8000
+    artifact-name: totem-right-diag
+  - board: seeeduino_xiao_ble
     shield: settings_reset
